@@ -1,0 +1,36 @@
+- title: Bering Trio
+  url: "/"
+  side: left
+
+- title: Bio
+  url: "/trio/"
+  side: left
+  dropdown:
+      - title: "Bering Trio"
+        url: "/trio/"
+      - title: "Paul Medeiros"
+        url: "/paul/"
+      - title: "Ian de Jong"
+        url: "/ian/"
+      - title: "Aleksandra Kaspera"
+        url: "/aleksandra/"
+
+- title: Media
+  url: "/getting-started/"
+  side: left
+
+- title: Agenda
+  url: "/getting-started/"
+  side: left
+
+- title: "English"
+  url: "/en/"
+  side: right
+
+- title: "Nederlands"
+  url: "/nl/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
