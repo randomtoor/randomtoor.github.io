@@ -1,0 +1,98 @@
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+
+					{% if page.image.caption_url && page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				<span itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</span>
+			</header>
+
+			<!--English table-->
+			{% if page.lang == 'en' %}
+			<table class="table">
+			  <thead>
+				  <th>Date</th>
+				  <th>Event</th>
+				  <th>Location</th>
+			  </thead>
+			  <tbody>
+				{% for point in site.data.agenda %}
+				<tr>
+				  <td class="col1">{{ point.date }}{% if point.time %}<br>{{ point.time }}{% endif %}</td>
+				  <!--with link-->
+				  {% if point.url %}
+				  <td><a href="{{ point.url }}">{{ point.event }}</a></td>
+				  <!--without link-->
+				  {% else %}
+				  <td>{{ point.event }}</td>
+				  {% endif %}
+				  <td>{{ point.location }}</td>
+				</tr>
+				{% endfor %}
+			  </tbody>
+			</table>
+			{% else %}
+			<!--Dutch table-->
+			<table class="table">
+			  <thead>
+				  <th>Datum</th>
+				  <th>Evenement</th>
+				  <th>Plaats</th>
+			  </thead>
+			  <tbody>
+				{% for point in site.data.agendaNL %}
+				<tr>
+				  <td class="col1">{{ point.date }}{% if point.time %}<br>{{ point.time }}{% endif %}</td>
+				  <!--with link-->
+				  {% if point.url %}
+				  <td><a href="{{ point.url }}">{{ point.event }}</a></td>
+				  <!--without link-->
+				  {% else %}
+				  <td>{{ point.event }}</td>
+				  {% endif %}
+				  <td>{{ point.location }}</td>
+				</tr>
+				{% endfor %}
+			  </tbody>
+			</table>
+			{% endif %}
+
+
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include sidebar %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include sidebar %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->

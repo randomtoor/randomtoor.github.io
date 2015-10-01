@@ -11,7 +11,7 @@ widget1:
   title: "Bio"
   url: '/nl/bio/'
   image: trio.jpg
-  text: 'Dit is niet iets over Bering'
+  text: 'Het in Nederland gevestigde Bering Trio bestaat uit Canadese violist Paul Medeiros, Amerikaanse altviolist/violist Ian de Jong en Letse celliste Aleksandra Kaspera. Een hechte (vriendschap?) gebaseerd op een gezamenlijke liefde voor kamermuziek brengt deze musici bij elkaar.'
 widget2:
   title: "Media"
   url: '/nl/media/'
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Agenda"
   url: '/nl/agenda/'
-  image: github-303x182.jpg
+  image: agenda.jpg
   text: 'Hier vint u iets anders'
 permalink: /nl/index.html
 lang: 'nl'

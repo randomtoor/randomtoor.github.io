@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: bering-header.jpg
 widget1:
-  title: "trio"
-  url: '/trio/'
+  title: "Trio"
+  url: '/en/trio/'
   image: trio.jpg
-  text: 'This is NOT a one paragraph history of Bering'
+  text: 'The Bering Trio (based in the Netherlands) is composed of Canadian violinist Paul Medeiros, American violist/violinist Ian de Jong and Latvian cellist Aleksandra Kaspera. A strong comradery based on a shared love of chamber music brings these players together.'
 widget2:
   title: "Media"
-  url: '/media/'
+  url: '/en/media/'
   text: "Bering *rocks*! Don't believeme, check this out!"
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://localhost:4000/images/youtube.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"
-  url: '/agenda/'
-  image: github-303x182.jpg
+  url: '/en/agenda/'
+  image: agenda.jpg
   text: 'Here is where you can find us next'
 permalink: index.html
 lang: 'en'

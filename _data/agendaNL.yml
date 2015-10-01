@@ -1,0 +1,14 @@
+- date: 1 November
+  time: "15:30"
+  event: Stichting Petersburch Edam 
+  location: Edam
+  url: http://www.petersburchedam.nl/agenda/
+
+- date: 10 Oktober 
+  time: "12:30"
+  event: Staten-Generaal
+  location: Binnenhof, Den Haag
+  url: http://200jaarstaten-generaal.nl/
+
+
+#Note: (make sure that the - is indented by at least one space and that indents match)
