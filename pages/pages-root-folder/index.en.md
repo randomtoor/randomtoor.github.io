@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "Media"
   url: 'en/media/'
-  text: "Bering *rocks*! Don't believeme, check this out!"
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://localhost:4000/images/youtube.jpg" width="302" height="182" alt=""/></a>'
+  text: "You can see some past presentations in our media section."
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://localhost:4000/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"
   url: 'en/agenda/'
   image: agenda.jpg
-  text: 'Here is where you can find us next'
+  text: 'Our next presentations'
 permalink: en/index.html
 lang: 'en'
 ---
@@ -29,7 +29,7 @@ lang: 'en'
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/XSlw4UduG84" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Jb8x-jXjuTg" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
