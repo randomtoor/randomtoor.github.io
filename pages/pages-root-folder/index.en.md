@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Media"
   url: 'en/media/'
-  text: "See our past presentations in the media section."
+  text: "See our recent presentations in the media section."
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://randomtoor.github.io/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"

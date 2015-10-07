@@ -16,7 +16,7 @@ widget2:
   title: "Media"
   url: '/nl/media/'
   text: "Zie onze afgelopen presentaties in de media sectie"
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://localhost:4000/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://randomtoor.github.io/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"
   url: '/nl/agenda/'
