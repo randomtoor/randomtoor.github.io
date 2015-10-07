@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "Media"
   url: '/en/media/'
-  text: "You can see some past presentations in our media section."
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://localhost:4000/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
+  text: "See our recent presentations in the media section."
+  video: '<a href="#" data-reveal-id="videomodal"><img src="http://randomtoor.github.io/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"
   url: '/en/agenda/'
   image: agenda.jpg
-  text: 'Our next presentations'
+  text: "Upcoming concerts"
 permalink: index.html
 lang: 'en'
 ---
