@@ -10,13 +10,13 @@ header:
 widget1:
   title: "Trio"
   url: '/en/trio/'
-  image: trio.jpg
+  image: trio-widget.jpg
   text: 'The Bering Trio (based in the Netherlands) is composed of Canadian violinist Paul Medeiros, American violist/violinist Ian de Jong and Latvian cellist Aleksandra Kaspera. A strong comradery based on a shared love of chamber music brings these players together.'
 widget2:
   title: "Media"
   url: '/en/media/'
   text: "See our recent presentations in the media section."
-  video: '<a href="#" data-reveal-id="videomodal"><img src="http://randomtoor.github.io/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://randomtoor.github.io/images/youtube0.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Agenda"
   url: '/en/agenda/'
@@ -29,7 +29,7 @@ lang: 'en'
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/XSlw4UduG84" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Jb8x-jXjuTg" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>

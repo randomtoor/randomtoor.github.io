@@ -3,9 +3,9 @@
 	<a href="{{ widget_url }}">
 		{% if include.widget.image %}
 			{%comment%}TODO lazy loading{%endcomment%}
-			{%comment%}<img class="lazy" data-src="{{ site.urlimg }}{{ include.widget.image }}" width="300" height="280" alt="" />{%endcomment%}
+			{%comment%}<img class="lazy" data-src="{{ site.urlimg }}{{ include.widget.image }}" width="400" height="400" alt="" />{%endcomment%}
 			{%comment%}<noscript>{%endcomment%}
-				<img src="{{ site.urlimg }}{{ include.widget.image }}" width="300" height="280" alt="" />
+				<img src="{{ site.urlimg }}{{ include.widget.image }}" width="400" height="400" alt="" />
 			{%comment%}</noscript>{%endcomment%}
 		{% endif %}
 		{% if include.widget.video %}{{ include.widget.video }}{% endif %}

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+meta_title: "Contact"
+permalink: "/en/contact/"
+lang: "en"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
+U kunt ons bellen op: <a href="tel:+31649878593">+31 649 878 593</a>
+
+U kunt ons een email sturen op <a href="mailto:beringtrio@gmail.com?Subject=Request%20from%20website" target="_top">beringtrio@gmail.com</a>
+
+Als u wilt, kunt u ons bereiken via het onderstaande contact formulier:
+
+<iframe src="https://docs.google.com/forms/d/1MTMRlrHEoaWh4uIKuilLHdKOZFFuTtJPD4Z7Q54WAJw/viewform?embedded=true" width="100%" height="670" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
-
- [1]: http://www.wufoo.com/
