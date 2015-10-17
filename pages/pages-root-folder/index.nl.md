@@ -11,7 +11,7 @@ widget1:
   title: "Bio"
   url: '/nl/trio/'
   image: trio-widget.jpg
-  text: 'Het in Nederland gevestigde Bering Trio bestaat uit Canadese violist Paul Medeiros, Amerikaanse altviolist/violist Ian de Jong en Letse celliste Aleksandra Kaspera. Een hechte (vriendschap?) gebaseerd op een gezamenlijke liefde voor kamermuziek brengt deze musici bij elkaar.'
+  text: 'Het in Nederland gevestigde Bering Trio bestaat uit Canadese violist Paul Medeiros, Amerikaanse altviolist/violist Ian de Jong en Letse celliste Aleksandra Kaspera. Een hechte vriendschap gebaseerd op een gezamenlijke liefde voor kamermuziek brengt deze musici bij elkaar.'
 widget2:
   title: "Media"
   url: '/nl/media/'
