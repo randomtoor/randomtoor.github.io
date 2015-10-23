@@ -16,7 +16,7 @@ Rond 1741 was de Russische gezant graaf von Keyserling  in Leipzig waar zijn bes
 
 Bach daagde zichzelf ook uit bij het componeren, want de dertig variaties zijn niet alleen op een basismotief en de gebruikelijke muzikale vormen gebaseerd maar ook op een ingenieus mathematisch stramien.
 
-Anke Flik had bij de voorbereiding voor het muziekprogramma juli/december van De Buitenplaats het Trio Lamy gecontracteerd voor een concert op 27 september en de afspraak gemaakt dat dan de Goldberg-variaties van Bach zouden worden gespeeld. Maar een van de leden van het trio raakte in verwachting en een vervanging op niveau voor dat bijzondere stuk bleek niet mogelijk. Wat te doen.....er zouden immers zeker liefhebbers zijn die uitkeken naar dat stuk, in een ongewone vertolking door een strijktrio.
+Anke Flik had bij de voorbereiding voor het muziekprogramma juli/december van De Buitenplaats het Trio Lamy gecontracteerd voor een concert op 27 september en de afspraak gemaakt dat dan de Goldberg-variaties van Bach zouden worden gespeeld. Maar een van de leden van het trio raakte in verwachting en een vervanging op niveau voor dat bijzondere stuk bleek niet mogelijk. Wat te doen... er zouden immers zeker liefhebbers zijn die uitkeken naar dat stuk, in een ongewone vertolking door een strijktrio.
 
 Er kwam een mogelijkheid in het zicht: het Bering Trio, bestaande uit de Canadese violist Paul Medeiros, de Amerikaanse violist/altviolist Ian de Jong en de Letse celliste Aleksandra Kaspera,  drie nog vrij jonge, en toch hoorbaar ervaren musici. Het trio bleek een gouden vondst, het speelde na het Trio nr.1 van Boccherini 16 van de 30 variaties in een zetting van Dmitry Sitkovetsky voor strijktrio (met altviool), totaal ruim drie kwartier.
 
