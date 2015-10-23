@@ -33,3 +33,7 @@ lang: 'en'
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+# Bering Trio in the Press
+
+![bering-news]({{ site.urlimg }}/news-paper.jpg "Bering Trio in the Press")
