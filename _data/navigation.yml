@@ -23,6 +23,10 @@
   url: "/agenda/"
   side: left
 
+- title: Reviews
+  url: "/reviews/"
+  side: left
+
 - title: "English"
   url: "/en/"
   side: right
